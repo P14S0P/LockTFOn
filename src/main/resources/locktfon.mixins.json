@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.piasop.locktfon.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "locktfon.refmap.json",
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
